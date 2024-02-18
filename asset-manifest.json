@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Restuarant_app_/static/css/main.e93966b1.css",
+    "main.js": "/Restuarant_app_/static/js/main.ba7e8caa.js",
+    "static/media/bg.png": "/Restuarant_app_/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/Restuarant_app_/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/Restuarant_app_/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/Restuarant_app_/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/Restuarant_app_/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Restuarant_app_/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Restuarant_app_/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Restuarant_app_/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/home.jpg": "/Restuarant_app_/static/media/home.8e4e5ab1d7e808cef208.jpg",
+    "static/media/knife.png": "/Restuarant_app_/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Restuarant_app_/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/chef.jpg": "/Restuarant_app_/static/media/chef.9f9f2fdb70ffe191b62c.jpg",
+    "static/media/G.png": "/Restuarant_app_/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/Restuarant_app_/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Restuarant_app_/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Restuarant_app_/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Restuarant_app_/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Restuarant_app_/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/Restuarant_app_/index.html",
+    "static/media/spoon.svg": "/Restuarant_app_/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.e93966b1.css.map": "/Restuarant_app_/static/css/main.e93966b1.css.map",
+    "main.ba7e8caa.js.map": "/Restuarant_app_/static/js/main.ba7e8caa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93966b1.css",
+    "static/js/main.ba7e8caa.js"
+  ]
+}
