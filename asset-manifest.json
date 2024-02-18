@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Restuarant_app_/static/css/main.e93966b1.css",
-    "main.js": "/Restuarant_app_/static/js/main.ba7e8caa.js",
+    "main.js": "/Restuarant_app_/static/js/main.0a351b0a.js",
     "static/media/bg.png": "/Restuarant_app_/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/findus.png": "/Restuarant_app_/static/media/findus.585c393ccd3671513743.png",
     "static/media/laurels.png": "/Restuarant_app_/static/media/laurels.e760828692795d4aafd7.png",
@@ -23,10 +23,10 @@
     "index.html": "/Restuarant_app_/index.html",
     "static/media/spoon.svg": "/Restuarant_app_/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.e93966b1.css.map": "/Restuarant_app_/static/css/main.e93966b1.css.map",
-    "main.ba7e8caa.js.map": "/Restuarant_app_/static/js/main.ba7e8caa.js.map"
+    "main.0a351b0a.js.map": "/Restuarant_app_/static/js/main.0a351b0a.js.map"
   },
   "entrypoints": [
     "static/css/main.e93966b1.css",
-    "static/js/main.ba7e8caa.js"
+    "static/js/main.0a351b0a.js"
   ]
 }
